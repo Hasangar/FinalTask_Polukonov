@@ -1,0 +1,15 @@
+D:\Обучение GB\Итоговая\bin\Debug\net6.0\Итоговая.exe
+D:\Обучение GB\Итоговая\bin\Debug\net6.0\Итоговая.deps.json
+D:\Обучение GB\Итоговая\bin\Debug\net6.0\Итоговая.runtimeconfig.json
+D:\Обучение GB\Итоговая\bin\Debug\net6.0\Итоговая.dll
+D:\Обучение GB\Итоговая\bin\Debug\net6.0\Итоговая.pdb
+D:\Обучение GB\Итоговая\obj\Debug\net6.0\Итоговая.csproj.AssemblyReference.cache
+D:\Обучение GB\Итоговая\obj\Debug\net6.0\Итоговая.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение GB\Итоговая\obj\Debug\net6.0\Итоговая.AssemblyInfoInputs.cache
+D:\Обучение GB\Итоговая\obj\Debug\net6.0\Итоговая.AssemblyInfo.cs
+D:\Обучение GB\Итоговая\obj\Debug\net6.0\Итоговая.csproj.CoreCompileInputs.cache
+D:\Обучение GB\Итоговая\obj\Debug\net6.0\Итоговая.dll
+D:\Обучение GB\Итоговая\obj\Debug\net6.0\refint\Итоговая.dll
+D:\Обучение GB\Итоговая\obj\Debug\net6.0\Итоговая.pdb
+D:\Обучение GB\Итоговая\obj\Debug\net6.0\Итоговая.genruntimeconfig.cache
+D:\Обучение GB\Итоговая\obj\Debug\net6.0\ref\Итоговая.dll
